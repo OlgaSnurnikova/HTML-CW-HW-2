@@ -1,0 +1,61 @@
+.grey-rectangle{
+    background-color: grey;
+    width: 400px;
+    height: 200px;
+    box-shadow: tan -20px -20px 30px 10px;
+    margin-top: 100px;
+}
+.paragraph-text{
+    border-left: firebrick 4px solid;
+    width: 300px;
+    padding-left: 5px;
+}
+.rectangle-A{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: #464545 10px 10px;
+}
+.rectangle-B{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: #464545 10px 10px 10px;
+}
+.rectangle-C{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: #464545 10px 10px 5px 5px;
+}
+.rectangle-D{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: #737373 10px 10px 5px 5px;
+}
+.rectangle-E{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: #464545 12px 12px 10px 5px;
+}
+.rectangle-F{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: #737373  10px 10px 3px 3px;
+}
+
