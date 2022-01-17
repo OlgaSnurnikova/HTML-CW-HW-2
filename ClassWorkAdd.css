@@ -1,0 +1,51 @@
+body{
+    background: black;
+}
+.orange-text {
+    color: orange;
+    font-size: 22px;
+    border: solid 5px orange;
+    border-radius: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 200px;
+}
+.green-text{
+    color: #00fca4;
+    font-size: 22px;
+    border: solid 5px #00fca4;
+    border-radius: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 20px;
+}
+.pink-text{
+    color: rgba(236, 145, 239, 0.92);
+    font-size: 22px;
+    border: solid 5px rgba(236, 145, 239, 0.92);
+    border-radius: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 20px;
+}
+.red-text{
+    color: #e04646;
+    font-size: 22px;
+    border: solid 5px #e04646;
+    border-radius: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 20px;
+}
